@@ -1,78 +1,122 @@
-# Hi, I'm Michael 👋
+<div align="center">
 
-**Senior .NET & Full-Stack Engineer specialized in distributed systems, SaaS architecture, and modern web/mobile applications.**  
-Based in France · Available for freelance missions
+# Hi, I'm Michael
+
+<h3>Senior Software Engineer · SaaS Architect · Distributed Systems ( .NET / Full-Stack )</h3>  
+
+France · Freelance available
 
 ---
 
-## What I do
+</div>
 
-I design and build scalable software platforms with a strong focus on maintainability, reliability, and long-term architecture.
+## I build systems that run in the real world
 
-My work spans:
-- SaaS platforms
-- Distributed systems
-- Enterprise backend architectures
-- Modern web applications
-- Offline-first mobile applications
+I design and ship **scalable SaaS platforms and distributed systems** for real operational environments.
 
-I work across the full delivery lifecycle — from system design and architecture to implementation, deployment, and production operations.
+Focus areas:
+
+- Field operations & offline-first systems
+- SaaS platforms (multi-tenant, production-grade)
+- Distributed backend architectures
+- Event-driven systems & data consistency challenges
+
+I work end-to-end: from architecture → implementation → deployment → production reliability.
+
+---
+
+## What I work on
+
+- Building SaaS products from scratch
+- Designing backend architectures for scale
+- Solving offline-first synchronization problems
+- Modernizing legacy systems into modular architectures
+- Delivering production-ready distributed systems
 
 ---
 
 ## Core Stack
 
-**Backend**
+### Backend & Architecture
+
 - .NET / C# · ASP.NET Core
 - Clean Architecture · DDD · CQRS
 - REST APIs · gRPC · Event-Driven Architecture
-- Entity Framework Core · MediatR
-- PostgreSQL · SQL Server · Redis · MongoDB · Elasticsearch
+- PostgreSQL · SQL Server · Redis
+- MongoDB · Elasticsearch
 - Kafka · RabbitMQ
+- MediatR · Entity Framework Core
 
-**Frontend**
-- Next.js · Vite · React · TypeScript
+### Frontend
+
+- Next.js · React · Vite · TypeScript
 - TailwindCSS · Shadcn/ui
 - React Query · Zod
 
-**Mobile**
-- React Native (Expo)
-- Offline-first architecture
-- Real-time synchronization
+### Mobile
 
-**Cloud & DevOps**
-- Docker · Kubernetes · AWS · Azure · Cloudflare
+- React Native (Expo)
+- Offline-first systems
+- Real-time sync & conflict handling
+
+### Cloud & Platform
+
+- AWS · Azure · Cloudflare
+- Docker · Kubernetes
 - GitHub Actions · CI/CD
 - OpenTelemetry · Observability
 
-**Additional Experience**
+---
 
-I also work with PHP and Laravel for business applications, APIs, e-commerce platforms, and legacy modernization projects.
-- PHP · Laravel · WordPress / WooCommerce
-- REST APIs & back-office applications
+## Experience beyond .NET
+
+I also build and maintain systems using:
+
+- PHP · Laravel
+- WordPress / WooCommerce
+- REST APIs & backend systems
+- E-commerce & business applications
+- Legacy system modernization
 
 ---
 
-## Specialties
+## What I specialize in
 
-- SaaS architecture & multi-tenant systems
-- Distributed systems & event-driven design
-- Modular monoliths & microservices
-- Technical audits & legacy modernization
-- Offline-first mobile applications
-- Reliable distributed backend systems
-- API design & backend architecture
-
----
-
-## Currently Building
-
-**Construction Operations SaaS** *(in progress)*  
-A vertical SaaS platform for construction and field operations teams — safety audits, quality inspections, corrective actions, offline-first mobile workflows, multi-tenant architecture.
+- SaaS architecture (multi-tenant systems)
+- Distributed systems design
+- Event-driven architectures
+- Offline-first mobile & sync systems
+- Modular monoliths evolving into distributed systems
+- Backend scalability & reliability engineering
+- API design & system architecture
 
 ---
 
-## Let's work together
+## Current focus
 
-- 🌐 [michaelatse.dev](https://michaelatse.dev)
-- 💼 [LinkedIn](https://www.linkedin.com/in/ange-michael-atse/)
+### Construction Operations SaaS *(Active)*
+
+A vertical SaaS platform for construction and field operations teams.
+
+Built for real-world constraints:
+
+- Offline-first mobile workflows
+- Low connectivity environments
+- Field data collection & synchronization
+- Safety audits & quality inspections
+- Corrective action tracking & traceability
+- Multi-tenant SaaS architecture
+
+**Architecture direction:**
+
+- Modular domain-driven backend
+- Event-driven internal processing
+- Async workflows & resilient sync engine
+- Scalable multi-tenant design
+
+---
+
+## Let’s work together
+
+- 🌐 <https://michaelatse.dev>  
+- 💼 LinkedIn: <https://www.linkedin.com/in/ange-michael-atse/>
